@@ -1,6 +1,6 @@
 const { expect } = require("chai");
 
-describe("This module", () => {
+describe("dotenv", () => {
   it("should do something", () => {
     expect(true).to.equal(true);
   });
